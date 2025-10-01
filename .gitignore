@@ -1,0 +1,11 @@
+# python
+__pycache__/
+*.pyc
+.env
+.venv/
+# Jupyter checkpoints
+.ipynb_checkpoints/
+# data（大きなものは除外する）
+data/
+# VSCode
+.vscode/
