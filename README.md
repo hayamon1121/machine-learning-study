@@ -3,13 +3,13 @@
 このリポジトリは、書籍や教材で学んだ内容を Jupyter Notebook にまとめた学習ログです。  
 主に **「スッキリわかるPythonによる機械学習入門」（須藤秋良 著）** をベースにしています。  
 
-## リポジトリ構成
-├── notebooks/ # 学習用ノート（Jupyter Notebook）
-│ ├── chap00
-│ ├── chap01
-│ └── ...
-├── data/ # 使用したデータセット（必要なら）
-└── README.md
+## リポジトリ構成  
+├── notebooks/ # 学習用ノート（Jupyter Notebook)  
+│ ├── chap00  
+│ ├── chap01  
+│ └── ...  
+├── data/ # 使用したデータセット（必要なら）  
+└── README.md  
 
 ## 学習進捗
 ✅chap00  
