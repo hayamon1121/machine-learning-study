@@ -14,10 +14,10 @@
 ## 学習進捗
 ✅chap00  
 ✅chap01  
-✅chap02  
-✅chap03  
-✅chap04  
-chap05  
+✅chap02  2025-09-30  
+✅chap03  2025-10-01  
+✅chap04  2025-10-01  
+✅chap05  2025-10-02  
 chap06  
 chap07  
 chap08  
